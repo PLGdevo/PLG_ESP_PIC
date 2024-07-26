@@ -6,8 +6,10 @@
 void setup() 
 {
 delay(100);
-pinMode(25);
-digital_low(25));  
+pinMode(25,OUTPUT);
+digitalWrite(25,OUTPUT);
+
+
 
 }
 
