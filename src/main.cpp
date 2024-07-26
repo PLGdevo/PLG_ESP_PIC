@@ -6,7 +6,8 @@
 void setup() 
 {
 delay(100);
-
+pinMode(25);
+digital_low(25));  
 
 }
 
